@@ -4,5 +4,22 @@ module.exports = {
   theme: {
     extend: {},
   },
-  plugins: [],
+  plugins: [
+    function ({ addUtilities, addVariant, e }) {
+      // Add a custom variant for hover state
+      addVariant('hover', ({ modifySelectors, separator }) => {
+        modifySelectors(({ className }) => {
+          return `.${e(`hover${separator}${className}`)}:hover`;
+        });
+      });
+
+      // Add custom utilities for dashed underline
+      addUtilities({
+        '.underline-dashed': {
+          textDecoration: 'underline',
+          textDecorationStyle: 'dashed',
+        }
+      }, ['hover']); // Apply this utility on hover
+    }
+  ],
 }
