@@ -1,34 +1,32 @@
 import React, { useState } from "react";
 
 const UserInputForm = () => {
-	// State to store the user input
-	const [inputValue, setInputValue] = useState("");
+	const [selectedOption, setSelectedOption] = useState("");
 
-	// Event handler for input change
-	const handleInputChange = (event) => {
-		setInputValue(event.target.value);
+	const handleSelectChange = (event) => {
+		setSelectedOption(event.target.value);
 	};
 
-	// Event handler for form submission
 	const handleSubmit = (event) => {
 		event.preventDefault();
-		// Do something with the input value (e.g., send it to a server, update state, etc.)
-		console.log("User entered:", inputValue);
+		console.log("User selected:", selectedOption);
 	};
 
 	return (
 		<form onSubmit={handleSubmit}>
 			<label>
-				Input COP Location:
-				{/* Input field with value and onChange controlled by state */}
-				<input
-					class="border-[#64422F] border-4 rounded-lg drop-shadow-xl"
-					type="text"
-					value={inputValue}
-					onChange={handleInputChange}
-				/>
+				Select COP Location:
+				<select
+					className="border-[#64422F] border-4 rounded-lg drop-shadow-xl bg-[#FFF8CC]"
+					value={selectedOption}
+					onChange={handleSelectChange}>
+					<option value="">Select an option</option>
+					<option value="USA">United States</option>
+					<option value="CA">Canada</option>
+					<option value="AU">Austrilia</option>
+					<option value="N/UK">Norway/United Kingdom</option>
+				</select>
 			</label>
-			{/* Button to submit the form */}
 			<button type="submit">Submit</button>
 		</form>
 	);
