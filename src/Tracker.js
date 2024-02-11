@@ -1,5 +1,12 @@
 import Navbar from "./Navbar";
 const Tracker = () => {
+    class myHeader extends React.Component{
+        render(){
+            const myStyle = {
+
+            }
+        }
+    }
     return (
         <div className="bg-[#F4B04E] min-h-screen">
             <Navbar />
