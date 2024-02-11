@@ -1,15 +1,41 @@
 import Navbar from "./Navbar";
+
 const Tracker = () => {
     return (
-        <div className="bg-[#F4B04E] min-h-screen">
-            <Navbar />
-             <p>Tracker</p>
-             <div class="flex mb-4">
-             <div class="w-1/2 border-b-2 border-customGray bg-gray-400 h-12 hover:underline-dashed"></div>
-             </div>
-
-        </div>
-    )
+        <>
+            <style>
+                {`
+                .container {
+                    background-color: #F4B04E;
+                    min-height: 100vh;
+                }
+                .trackerText {
+                    /* Add styles if needed */
+                }
+                .flexContainer {
+                    display: flex;
+                    margin-bottom: 16px;
+                }
+                .flexItem {
+                    width: 50%;
+                    border-bottom: 2px solid #yourCustomGrayColor; /* Replace with your custom gray color */
+                    background-color: gray;
+                    height: 48px;
+                }
+                .flexItem:hover {
+                    text-decoration: underline dashed;
+                }
+                `}
+            </style>
+            <div className="container">
+                <Navbar />
+                <p className="trackerText">Tracker</p>
+                <div className="flexContainer">
+                    <div className="flexItem"></div>
+                </div>
+            </div>
+        </>
+    );
 }
 
 export default Tracker;
