@@ -15,7 +15,7 @@ const Tracker = () => {
 						<div class="self-center grow">map content</div>
 					</div>
 				</div>
-				<div class="flex bg-[#FFF3AC] basis-1/4 text-center block border-[#64422F] border-8 rounded-lg drop-shadow-xl">
+				<div class="flex bg-[#FFF3AC] basis-2/6 text-center block border-[#64422F] border-8 rounded-lg drop-shadow-xl">
 					<div class="block p-3 self-center min-h-full min-w-full overflow-y-scroll scrollable-container">
 						{" "}
 						<UserInputForm />
