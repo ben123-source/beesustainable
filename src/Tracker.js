@@ -13,7 +13,9 @@ const Tracker = () => {
 						map
 					</div>
 				</div>
-				<div class="bg-white basis-1/4 text-center block border-[#64422F] border-8 rounded-lg"></div>
+				<div class="bg-white basis-1/4 text-center block border-[#64422F] border-8 rounded-lg">
+					data dashboard
+				</div>
 			</div>
 		</div>
 	);
