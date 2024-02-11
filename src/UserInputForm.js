@@ -17,7 +17,7 @@ const UserInputForm = () => {
 			<label>
 				Select COP Location:
 				<select
-					className="border-[#64422F] border-4 rounded-lg drop-shadow-xl bg-[#FFFBE5]"
+					className="border-[#64422F] border-4 rounded-lg drop-shadow-xl bg-[#FFF8CC]"
 					value={selectedOption}
 					onChange={handleSelectChange}>
 					<option value="">Select an option</option>
