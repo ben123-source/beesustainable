@@ -6,15 +6,15 @@ const Tracker = () => {
 			<Navbar />
 			<div class="flex grow basis-full px-28 py-12 justify-between gap-20 ">
 				<div class="basis-4/5 flex flex-col gap-5 text-center ">
-					<div class="px-40 self-start bg-white grow-1 basis-14 border-[#64422F] border-8 rounded-lg">
-						<div>title</div>
+					<div class="px-40 self-start bg-white grow-1 basis-14 border-[#64422F] border-8 rounded-lg drop-shadow-xl flex">
+						<div class="justify-center self-center">location title</div>
 					</div>
-					<div class="bg-white grow basis-96 border-[#64422F] border-8 rounded-lg">
-						map
+					<div class="flex bg-white grow basis-96 border-[#64422F] border-8 rounded-lg drop-shadow-xl justify-center">
+						<div class="self-center grow">map content</div>
 					</div>
 				</div>
-				<div class="bg-white basis-1/4 text-center block border-[#64422F] border-8 rounded-lg">
-					data dashboard
+				<div class="flex bg-white basis-1/4 text-center block border-[#64422F] border-8 rounded-lg drop-shadow-xl">
+					<div class="self-center grow">data dashboard</div>
 				</div>
 			</div>
 		</div>
