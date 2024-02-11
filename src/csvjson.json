@@ -1,0 +1,1002 @@
+[
+  {
+    "Year": 2023,
+    "Location": "Australia",
+    "Bee Population (thousands)": 2805,
+    "Hive Count": 63,
+    "Average Hive Health": "Fair",
+    "Pesticide Use": "Medium",
+    "Pollination Activity": "High",
+    "Threats": "Climate Change"
+  },
+  {
+    "Year": 2018,
+    "Location": "UK",
+    "Bee Population (thousands)": 2330,
+    "Hive Count": 111,
+    "Average Hive Health": "Fair",
+    "Pesticide Use": "Low",
+    "Pollination Activity": "Low",
+    "Threats": "Habitat Loss"
+  },
+  {
+    "Year": 2017,
+    "Location": "USA",
+    "Bee Population (thousands)": 2860,
+    "Hive Count": 140,
+    "Average Hive Health": "Good",
+    "Pesticide Use": "Medium",
+    "Pollination Activity": "High",
+    "Threats": "Pesticides"
+  },
+  {
+    "Year": 2020,
+    "Location": "USA",
+    "Bee Population (thousands)": 3095,
+    "Hive Count": 141,
+    "Average Hive Health": "Poor",
+    "Pesticide Use": "Medium",
+    "Pollination Activity": "High",
+    "Threats": "Climate Change"
+  },
+  {
+    "Year": 2022,
+    "Location": "USA",
+    "Bee Population (thousands)": 3044,
+    "Hive Count": 129,
+    "Average Hive Health": "Fair",
+    "Pesticide Use": "Low",
+    "Pollination Activity": "High",
+    "Threats": "Disease"
+  },
+  {
+    "Year": 2023,
+    "Location": "Australia",
+    "Bee Population (thousands)": 2805,
+    "Hive Count": 63,
+    "Average Hive Health": "Fair",
+    "Pesticide Use": "Medium",
+    "Pollination Activity": "High",
+    "Threats": "Climate Change"
+  },
+  {
+    "Year": 2023,
+    "Location": "USA",
+    "Bee Population (thousands)": 3638,
+    "Hive Count": 64,
+    "Average Hive Health": "Excellent",
+    "Pesticide Use": "Low",
+    "Pollination Activity": "Low",
+    "Threats": "Disease"
+  },
+  {
+    "Year": 2020,
+    "Location": "Canada",
+    "Bee Population (thousands)": 2459,
+    "Hive Count": 141,
+    "Average Hive Health": "Good",
+    "Pesticide Use": "Medium",
+    "Pollination Activity": "Low",
+    "Threats": "Habitat Loss"
+  },
+  {
+    "Year": 2020,
+    "Location": "Australia",
+    "Bee Population (thousands)": 2343,
+    "Hive Count": 53,
+    "Average Hive Health": "Fair",
+    "Pesticide Use": "Low",
+    "Pollination Activity": "Medium",
+    "Threats": "Habitat Loss"
+  },
+  {
+    "Year": 2020,
+    "Location": "UK",
+    "Bee Population (thousands)": 2087,
+    "Hive Count": 104,
+    "Average Hive Health": "Fair",
+    "Pesticide Use": "High",
+    "Pollination Activity": "Medium",
+    "Threats": "Habitat Loss"
+  },
+  {
+    "Year": 2019,
+    "Location": "Canada",
+    "Bee Population (thousands)": 3184,
+    "Hive Count": 133,
+    "Average Hive Health": "Fair",
+    "Pesticide Use": "Low",
+    "Pollination Activity": "Medium",
+    "Threats": "Disease"
+  },
+  {
+    "Year": 2019,
+    "Location": "Canada",
+    "Bee Population (thousands)": 3184,
+    "Hive Count": 133,
+    "Average Hive Health": "Fair",
+    "Pesticide Use": "Low",
+    "Pollination Activity": "Medium",
+    "Threats": "Disease"
+  },
+  {
+    "Year": 2020,
+    "Location": "Australia",
+    "Bee Population (thousands)": 2343,
+    "Hive Count": 53,
+    "Average Hive Health": "Fair",
+    "Pesticide Use": "Low",
+    "Pollination Activity": "Medium",
+    "Threats": "Habitat Loss"
+  },
+  {
+    "Year": 2017,
+    "Location": "UK",
+    "Bee Population (thousands)": 3238,
+    "Hive Count": 96,
+    "Average Hive Health": "Fair",
+    "Pesticide Use": "Low",
+    "Pollination Activity": "High",
+    "Threats": "Habitat Loss"
+  },
+  {
+    "Year": 2016,
+    "Location": "USA",
+    "Bee Population (thousands)": 3459,
+    "Hive Count": 98,
+    "Average Hive Health": "Excellent",
+    "Pesticide Use": "Low",
+    "Pollination Activity": "Low",
+    "Threats": "Disease"
+  },
+  {
+    "Year": 2017,
+    "Location": "USA",
+    "Bee Population (thousands)": 2860,
+    "Hive Count": 140,
+    "Average Hive Health": "Good",
+    "Pesticide Use": "Medium",
+    "Pollination Activity": "High",
+    "Threats": "Pesticides"
+  },
+  {
+    "Year": 2022,
+    "Location": "UK",
+    "Bee Population (thousands)": 3123,
+    "Hive Count": 52,
+    "Average Hive Health": "Fair",
+    "Pesticide Use": "Low",
+    "Pollination Activity": "High",
+    "Threats": "Pesticides"
+  },
+  {
+    "Year": 2016,
+    "Location": "USA",
+    "Bee Population (thousands)": 3459,
+    "Hive Count": 98,
+    "Average Hive Health": "Excellent",
+    "Pesticide Use": "Low",
+    "Pollination Activity": "Low",
+    "Threats": "Disease"
+  },
+  {
+    "Year": 2016,
+    "Location": "USA",
+    "Bee Population (thousands)": 3459,
+    "Hive Count": 98,
+    "Average Hive Health": "Excellent",
+    "Pesticide Use": "Low",
+    "Pollination Activity": "Low",
+    "Threats": "Disease"
+  },
+  {
+    "Year": 2015,
+    "Location": "Canada",
+    "Bee Population (thousands)": 2385,
+    "Hive Count": 58,
+    "Average Hive Health": "Good",
+    "Pesticide Use": "High",
+    "Pollination Activity": "High",
+    "Threats": "Habitat Loss"
+  },
+  {
+    "Year": 2019,
+    "Location": "Australia",
+    "Bee Population (thousands)": 2769,
+    "Hive Count": 67,
+    "Average Hive Health": "Fair",
+    "Pesticide Use": "High",
+    "Pollination Activity": "High",
+    "Threats": "Climate Change"
+  },
+  {
+    "Year": 2019,
+    "Location": "Canada",
+    "Bee Population (thousands)": 3184,
+    "Hive Count": 133,
+    "Average Hive Health": "Fair",
+    "Pesticide Use": "Low",
+    "Pollination Activity": "Medium",
+    "Threats": "Disease"
+  },
+  {
+    "Year": 2020,
+    "Location": "Canada",
+    "Bee Population (thousands)": 2459,
+    "Hive Count": 141,
+    "Average Hive Health": "Good",
+    "Pesticide Use": "Medium",
+    "Pollination Activity": "Low",
+    "Threats": "Habitat Loss"
+  },
+  {
+    "Year": 2015,
+    "Location": "USA",
+    "Bee Population (thousands)": 3126,
+    "Hive Count": 138,
+    "Average Hive Health": "Poor",
+    "Pesticide Use": "Low",
+    "Pollination Activity": "Medium",
+    "Threats": "Disease"
+  },
+  {
+    "Year": 2015,
+    "Location": "Australia",
+    "Bee Population (thousands)": 3687,
+    "Hive Count": 56,
+    "Average Hive Health": "Good",
+    "Pesticide Use": "High",
+    "Pollination Activity": "High",
+    "Threats": "Climate Change"
+  },
+  {
+    "Year": 2016,
+    "Location": "USA",
+    "Bee Population (thousands)": 3459,
+    "Hive Count": 98,
+    "Average Hive Health": "Excellent",
+    "Pesticide Use": "Low",
+    "Pollination Activity": "Low",
+    "Threats": "Disease"
+  },
+  {
+    "Year": 2022,
+    "Location": "Australia",
+    "Bee Population (thousands)": 3437,
+    "Hive Count": 109,
+    "Average Hive Health": "Excellent",
+    "Pesticide Use": "Low",
+    "Pollination Activity": "Low",
+    "Threats": "Disease"
+  },
+  {
+    "Year": 2019,
+    "Location": "Canada",
+    "Bee Population (thousands)": 3184,
+    "Hive Count": 133,
+    "Average Hive Health": "Fair",
+    "Pesticide Use": "Low",
+    "Pollination Activity": "Medium",
+    "Threats": "Disease"
+  },
+  {
+    "Year": 2020,
+    "Location": "USA",
+    "Bee Population (thousands)": 3095,
+    "Hive Count": 141,
+    "Average Hive Health": "Poor",
+    "Pesticide Use": "Medium",
+    "Pollination Activity": "High",
+    "Threats": "Climate Change"
+  },
+  {
+    "Year": 2019,
+    "Location": "Canada",
+    "Bee Population (thousands)": 3184,
+    "Hive Count": 133,
+    "Average Hive Health": "Fair",
+    "Pesticide Use": "Low",
+    "Pollination Activity": "Medium",
+    "Threats": "Disease"
+  },
+  {
+    "Year": 2018,
+    "Location": "USA",
+    "Bee Population (thousands)": 3294,
+    "Hive Count": 108,
+    "Average Hive Health": "Good",
+    "Pesticide Use": "High",
+    "Pollination Activity": "Medium",
+    "Threats": "Climate Change"
+  },
+  {
+    "Year": 2016,
+    "Location": "UK",
+    "Bee Population (thousands)": 2466,
+    "Hive Count": 111,
+    "Average Hive Health": "Fair",
+    "Pesticide Use": "High",
+    "Pollination Activity": "Medium",
+    "Threats": "Climate Change"
+  },
+  {
+    "Year": 2022,
+    "Location": "UK",
+    "Bee Population (thousands)": 3123,
+    "Hive Count": 52,
+    "Average Hive Health": "Fair",
+    "Pesticide Use": "Low",
+    "Pollination Activity": "High",
+    "Threats": "Pesticides"
+  },
+  {
+    "Year": 2020,
+    "Location": "Australia",
+    "Bee Population (thousands)": 2343,
+    "Hive Count": 53,
+    "Average Hive Health": "Fair",
+    "Pesticide Use": "Low",
+    "Pollination Activity": "Medium",
+    "Threats": "Habitat Loss"
+  },
+  {
+    "Year": 2019,
+    "Location": "USA",
+    "Bee Population (thousands)": 3130,
+    "Hive Count": 91,
+    "Average Hive Health": "Fair",
+    "Pesticide Use": "Low",
+    "Pollination Activity": "High",
+    "Threats": "Pesticides"
+  },
+  {
+    "Year": 2021,
+    "Location": "Canada",
+    "Bee Population (thousands)": 3337,
+    "Hive Count": 109,
+    "Average Hive Health": "Excellent",
+    "Pesticide Use": "Low",
+    "Pollination Activity": "High",
+    "Threats": "Pesticides"
+  },
+  {
+    "Year": 2020,
+    "Location": "USA",
+    "Bee Population (thousands)": 3095,
+    "Hive Count": 141,
+    "Average Hive Health": "Poor",
+    "Pesticide Use": "Medium",
+    "Pollination Activity": "High",
+    "Threats": "Climate Change"
+  },
+  {
+    "Year": 2018,
+    "Location": "Australia",
+    "Bee Population (thousands)": 3332,
+    "Hive Count": 88,
+    "Average Hive Health": "Excellent",
+    "Pesticide Use": "High",
+    "Pollination Activity": "High",
+    "Threats": "Climate Change"
+  },
+  {
+    "Year": 2016,
+    "Location": "UK",
+    "Bee Population (thousands)": 2466,
+    "Hive Count": 111,
+    "Average Hive Health": "Fair",
+    "Pesticide Use": "High",
+    "Pollination Activity": "Medium",
+    "Threats": "Climate Change"
+  },
+  {
+    "Year": 2021,
+    "Location": "UK",
+    "Bee Population (thousands)": 3396,
+    "Hive Count": 113,
+    "Average Hive Health": "Excellent",
+    "Pesticide Use": "Low",
+    "Pollination Activity": "High",
+    "Threats": "Pesticides"
+  },
+  {
+    "Year": 2020,
+    "Location": "Canada",
+    "Bee Population (thousands)": 2459,
+    "Hive Count": 141,
+    "Average Hive Health": "Good",
+    "Pesticide Use": "Medium",
+    "Pollination Activity": "Low",
+    "Threats": "Habitat Loss"
+  },
+  {
+    "Year": 2023,
+    "Location": "USA",
+    "Bee Population (thousands)": 3638,
+    "Hive Count": 64,
+    "Average Hive Health": "Excellent",
+    "Pesticide Use": "Low",
+    "Pollination Activity": "Low",
+    "Threats": "Disease"
+  },
+  {
+    "Year": 2020,
+    "Location": "USA",
+    "Bee Population (thousands)": 3095,
+    "Hive Count": 141,
+    "Average Hive Health": "Poor",
+    "Pesticide Use": "Medium",
+    "Pollination Activity": "High",
+    "Threats": "Climate Change"
+  },
+  {
+    "Year": 2021,
+    "Location": "UK",
+    "Bee Population (thousands)": 3396,
+    "Hive Count": 113,
+    "Average Hive Health": "Excellent",
+    "Pesticide Use": "Low",
+    "Pollination Activity": "High",
+    "Threats": "Pesticides"
+  },
+  {
+    "Year": 2016,
+    "Location": "Canada",
+    "Bee Population (thousands)": 3215,
+    "Hive Count": 139,
+    "Average Hive Health": "Excellent",
+    "Pesticide Use": "Medium",
+    "Pollination Activity": "High",
+    "Threats": "Disease"
+  },
+  {
+    "Year": 2017,
+    "Location": "USA",
+    "Bee Population (thousands)": 2860,
+    "Hive Count": 140,
+    "Average Hive Health": "Good",
+    "Pesticide Use": "Medium",
+    "Pollination Activity": "High",
+    "Threats": "Pesticides"
+  },
+  {
+    "Year": 2016,
+    "Location": "Australia",
+    "Bee Population (thousands)": 2130,
+    "Hive Count": 70,
+    "Average Hive Health": "Fair",
+    "Pesticide Use": "High",
+    "Pollination Activity": "High",
+    "Threats": "Climate Change"
+  },
+  {
+    "Year": 2023,
+    "Location": "Canada",
+    "Bee Population (thousands)": 2252,
+    "Hive Count": 93,
+    "Average Hive Health": "Fair",
+    "Pesticide Use": "High",
+    "Pollination Activity": "Low",
+    "Threats": "Pesticides"
+  },
+  {
+    "Year": 2015,
+    "Location": "Australia",
+    "Bee Population (thousands)": 3687,
+    "Hive Count": 56,
+    "Average Hive Health": "Good",
+    "Pesticide Use": "High",
+    "Pollination Activity": "High",
+    "Threats": "Climate Change"
+  },
+  {
+    "Year": 2022,
+    "Location": "Australia",
+    "Bee Population (thousands)": 3437,
+    "Hive Count": 109,
+    "Average Hive Health": "Excellent",
+    "Pesticide Use": "Low",
+    "Pollination Activity": "Low",
+    "Threats": "Disease"
+  },
+  {
+    "Year": 2017,
+    "Location": "USA",
+    "Bee Population (thousands)": 2860,
+    "Hive Count": 140,
+    "Average Hive Health": "Good",
+    "Pesticide Use": "Medium",
+    "Pollination Activity": "High",
+    "Threats": "Pesticides"
+  },
+  {
+    "Year": 2015,
+    "Location": "Australia",
+    "Bee Population (thousands)": 3687,
+    "Hive Count": 56,
+    "Average Hive Health": "Good",
+    "Pesticide Use": "High",
+    "Pollination Activity": "High",
+    "Threats": "Climate Change"
+  },
+  {
+    "Year": 2016,
+    "Location": "Australia",
+    "Bee Population (thousands)": 2130,
+    "Hive Count": 70,
+    "Average Hive Health": "Fair",
+    "Pesticide Use": "High",
+    "Pollination Activity": "High",
+    "Threats": "Climate Change"
+  },
+  {
+    "Year": 2019,
+    "Location": "Canada",
+    "Bee Population (thousands)": 3184,
+    "Hive Count": 133,
+    "Average Hive Health": "Fair",
+    "Pesticide Use": "Low",
+    "Pollination Activity": "Medium",
+    "Threats": "Disease"
+  },
+  {
+    "Year": 2021,
+    "Location": "USA",
+    "Bee Population (thousands)": 3724,
+    "Hive Count": 109,
+    "Average Hive Health": "Excellent",
+    "Pesticide Use": "Low",
+    "Pollination Activity": "Low",
+    "Threats": "Disease"
+  },
+  {
+    "Year": 2020,
+    "Location": "Canada",
+    "Bee Population (thousands)": 2459,
+    "Hive Count": 141,
+    "Average Hive Health": "Good",
+    "Pesticide Use": "Medium",
+    "Pollination Activity": "Low",
+    "Threats": "Habitat Loss"
+  },
+  {
+    "Year": 2023,
+    "Location": "UK",
+    "Bee Population (thousands)": 2871,
+    "Hive Count": 100,
+    "Average Hive Health": "Poor",
+    "Pesticide Use": "High",
+    "Pollination Activity": "Medium",
+    "Threats": "Habitat Loss"
+  },
+  {
+    "Year": 2015,
+    "Location": "USA",
+    "Bee Population (thousands)": 3126,
+    "Hive Count": 138,
+    "Average Hive Health": "Poor",
+    "Pesticide Use": "Low",
+    "Pollination Activity": "Medium",
+    "Threats": "Disease"
+  },
+  {
+    "Year": 2016,
+    "Location": "UK",
+    "Bee Population (thousands)": 2466,
+    "Hive Count": 111,
+    "Average Hive Health": "Fair",
+    "Pesticide Use": "High",
+    "Pollination Activity": "Medium",
+    "Threats": "Climate Change"
+  },
+  {
+    "Year": 2015,
+    "Location": "Canada",
+    "Bee Population (thousands)": 2385,
+    "Hive Count": 58,
+    "Average Hive Health": "Good",
+    "Pesticide Use": "High",
+    "Pollination Activity": "High",
+    "Threats": "Habitat Loss"
+  },
+  {
+    "Year": 2021,
+    "Location": "Australia",
+    "Bee Population (thousands)": 3515,
+    "Hive Count": 138,
+    "Average Hive Health": "Fair",
+    "Pesticide Use": "High",
+    "Pollination Activity": "Medium",
+    "Threats": "Habitat Loss"
+  },
+  {
+    "Year": 2019,
+    "Location": "Australia",
+    "Bee Population (thousands)": 2769,
+    "Hive Count": 67,
+    "Average Hive Health": "Fair",
+    "Pesticide Use": "High",
+    "Pollination Activity": "High",
+    "Threats": "Climate Change"
+  },
+  {
+    "Year": 2018,
+    "Location": "Canada",
+    "Bee Population (thousands)": 2276,
+    "Hive Count": 51,
+    "Average Hive Health": "Excellent",
+    "Pesticide Use": "High",
+    "Pollination Activity": "Low",
+    "Threats": "Pesticides"
+  },
+  {
+    "Year": 2017,
+    "Location": "Canada",
+    "Bee Population (thousands)": 2955,
+    "Hive Count": 102,
+    "Average Hive Health": "Good",
+    "Pesticide Use": "Low",
+    "Pollination Activity": "Low",
+    "Threats": "Climate Change"
+  },
+  {
+    "Year": 2022,
+    "Location": "Canada",
+    "Bee Population (thousands)": 2021,
+    "Hive Count": 120,
+    "Average Hive Health": "Poor",
+    "Pesticide Use": "High",
+    "Pollination Activity": "High",
+    "Threats": "Pesticides"
+  },
+  {
+    "Year": 2021,
+    "Location": "USA",
+    "Bee Population (thousands)": 3724,
+    "Hive Count": 109,
+    "Average Hive Health": "Excellent",
+    "Pesticide Use": "Low",
+    "Pollination Activity": "Low",
+    "Threats": "Disease"
+  },
+  {
+    "Year": 2021,
+    "Location": "UK",
+    "Bee Population (thousands)": 3396,
+    "Hive Count": 113,
+    "Average Hive Health": "Excellent",
+    "Pesticide Use": "Low",
+    "Pollination Activity": "High",
+    "Threats": "Pesticides"
+  },
+  {
+    "Year": 2022,
+    "Location": "Australia",
+    "Bee Population (thousands)": 3437,
+    "Hive Count": 109,
+    "Average Hive Health": "Excellent",
+    "Pesticide Use": "Low",
+    "Pollination Activity": "Low",
+    "Threats": "Disease"
+  },
+  {
+    "Year": 2016,
+    "Location": "USA",
+    "Bee Population (thousands)": 3459,
+    "Hive Count": 98,
+    "Average Hive Health": "Excellent",
+    "Pesticide Use": "Low",
+    "Pollination Activity": "Low",
+    "Threats": "Disease"
+  },
+  {
+    "Year": 2015,
+    "Location": "USA",
+    "Bee Population (thousands)": 3126,
+    "Hive Count": 138,
+    "Average Hive Health": "Poor",
+    "Pesticide Use": "Low",
+    "Pollination Activity": "Medium",
+    "Threats": "Disease"
+  },
+  {
+    "Year": 2017,
+    "Location": "UK",
+    "Bee Population (thousands)": 3238,
+    "Hive Count": 96,
+    "Average Hive Health": "Fair",
+    "Pesticide Use": "Low",
+    "Pollination Activity": "High",
+    "Threats": "Habitat Loss"
+  },
+  {
+    "Year": 2019,
+    "Location": "USA",
+    "Bee Population (thousands)": 3130,
+    "Hive Count": 91,
+    "Average Hive Health": "Fair",
+    "Pesticide Use": "Low",
+    "Pollination Activity": "High",
+    "Threats": "Pesticides"
+  },
+  {
+    "Year": 2019,
+    "Location": "Canada",
+    "Bee Population (thousands)": 3184,
+    "Hive Count": 133,
+    "Average Hive Health": "Fair",
+    "Pesticide Use": "Low",
+    "Pollination Activity": "Medium",
+    "Threats": "Disease"
+  },
+  {
+    "Year": 2023,
+    "Location": "USA",
+    "Bee Population (thousands)": 3638,
+    "Hive Count": 64,
+    "Average Hive Health": "Excellent",
+    "Pesticide Use": "Low",
+    "Pollination Activity": "Low",
+    "Threats": "Disease"
+  },
+  {
+    "Year": 2022,
+    "Location": "Canada",
+    "Bee Population (thousands)": 2021,
+    "Hive Count": 120,
+    "Average Hive Health": "Poor",
+    "Pesticide Use": "High",
+    "Pollination Activity": "High",
+    "Threats": "Pesticides"
+  },
+  {
+    "Year": 2015,
+    "Location": "Australia",
+    "Bee Population (thousands)": 3687,
+    "Hive Count": 56,
+    "Average Hive Health": "Good",
+    "Pesticide Use": "High",
+    "Pollination Activity": "High",
+    "Threats": "Climate Change"
+  },
+  {
+    "Year": 2021,
+    "Location": "UK",
+    "Bee Population (thousands)": 3396,
+    "Hive Count": 113,
+    "Average Hive Health": "Excellent",
+    "Pesticide Use": "Low",
+    "Pollination Activity": "High",
+    "Threats": "Pesticides"
+  },
+  {
+    "Year": 2017,
+    "Location": "USA",
+    "Bee Population (thousands)": 2860,
+    "Hive Count": 140,
+    "Average Hive Health": "Good",
+    "Pesticide Use": "Medium",
+    "Pollination Activity": "High",
+    "Threats": "Pesticides"
+  },
+  {
+    "Year": 2016,
+    "Location": "Australia",
+    "Bee Population (thousands)": 2130,
+    "Hive Count": 70,
+    "Average Hive Health": "Fair",
+    "Pesticide Use": "High",
+    "Pollination Activity": "High",
+    "Threats": "Climate Change"
+  },
+  {
+    "Year": 2020,
+    "Location": "Australia",
+    "Bee Population (thousands)": 2343,
+    "Hive Count": 53,
+    "Average Hive Health": "Fair",
+    "Pesticide Use": "Low",
+    "Pollination Activity": "Medium",
+    "Threats": "Habitat Loss"
+  },
+  {
+    "Year": 2020,
+    "Location": "Canada",
+    "Bee Population (thousands)": 2459,
+    "Hive Count": 141,
+    "Average Hive Health": "Good",
+    "Pesticide Use": "Medium",
+    "Pollination Activity": "Low",
+    "Threats": "Habitat Loss"
+  },
+  {
+    "Year": 2020,
+    "Location": "Australia",
+    "Bee Population (thousands)": 2343,
+    "Hive Count": 53,
+    "Average Hive Health": "Fair",
+    "Pesticide Use": "Low",
+    "Pollination Activity": "Medium",
+    "Threats": "Habitat Loss"
+  },
+  {
+    "Year": 2016,
+    "Location": "UK",
+    "Bee Population (thousands)": 2466,
+    "Hive Count": 111,
+    "Average Hive Health": "Fair",
+    "Pesticide Use": "High",
+    "Pollination Activity": "Medium",
+    "Threats": "Climate Change"
+  },
+  {
+    "Year": 2022,
+    "Location": "USA",
+    "Bee Population (thousands)": 3044,
+    "Hive Count": 129,
+    "Average Hive Health": "Fair",
+    "Pesticide Use": "Low",
+    "Pollination Activity": "High",
+    "Threats": "Disease"
+  },
+  {
+    "Year": 2023,
+    "Location": "Canada",
+    "Bee Population (thousands)": 2252,
+    "Hive Count": 93,
+    "Average Hive Health": "Fair",
+    "Pesticide Use": "High",
+    "Pollination Activity": "Low",
+    "Threats": "Pesticides"
+  },
+  {
+    "Year": 2016,
+    "Location": "Australia",
+    "Bee Population (thousands)": 2130,
+    "Hive Count": 70,
+    "Average Hive Health": "Fair",
+    "Pesticide Use": "High",
+    "Pollination Activity": "High",
+    "Threats": "Climate Change"
+  },
+  {
+    "Year": 2022,
+    "Location": "Canada",
+    "Bee Population (thousands)": 2021,
+    "Hive Count": 120,
+    "Average Hive Health": "Poor",
+    "Pesticide Use": "High",
+    "Pollination Activity": "High",
+    "Threats": "Pesticides"
+  },
+  {
+    "Year": 2021,
+    "Location": "Australia",
+    "Bee Population (thousands)": 3515,
+    "Hive Count": 138,
+    "Average Hive Health": "Fair",
+    "Pesticide Use": "High",
+    "Pollination Activity": "Medium",
+    "Threats": "Habitat Loss"
+  },
+  {
+    "Year": 2022,
+    "Location": "Canada",
+    "Bee Population (thousands)": 2021,
+    "Hive Count": 120,
+    "Average Hive Health": "Poor",
+    "Pesticide Use": "High",
+    "Pollination Activity": "High",
+    "Threats": "Pesticides"
+  },
+  {
+    "Year": 2021,
+    "Location": "Australia",
+    "Bee Population (thousands)": 3515,
+    "Hive Count": 138,
+    "Average Hive Health": "Fair",
+    "Pesticide Use": "High",
+    "Pollination Activity": "Medium",
+    "Threats": "Habitat Loss"
+  },
+  {
+    "Year": 2016,
+    "Location": "Canada",
+    "Bee Population (thousands)": 3215,
+    "Hive Count": 139,
+    "Average Hive Health": "Excellent",
+    "Pesticide Use": "Medium",
+    "Pollination Activity": "High",
+    "Threats": "Disease"
+  },
+  {
+    "Year": 2023,
+    "Location": "UK",
+    "Bee Population (thousands)": 2871,
+    "Hive Count": 100,
+    "Average Hive Health": "Poor",
+    "Pesticide Use": "High",
+    "Pollination Activity": "Medium",
+    "Threats": "Habitat Loss"
+  },
+  {
+    "Year": 2023,
+    "Location": "UK",
+    "Bee Population (thousands)": 2871,
+    "Hive Count": 100,
+    "Average Hive Health": "Poor",
+    "Pesticide Use": "High",
+    "Pollination Activity": "Medium",
+    "Threats": "Habitat Loss"
+  },
+  {
+    "Year": 2016,
+    "Location": "USA",
+    "Bee Population (thousands)": 3459,
+    "Hive Count": 98,
+    "Average Hive Health": "Excellent",
+    "Pesticide Use": "Low",
+    "Pollination Activity": "Low",
+    "Threats": "Disease"
+  },
+  {
+    "Year": 2022,
+    "Location": "Canada",
+    "Bee Population (thousands)": 2021,
+    "Hive Count": 120,
+    "Average Hive Health": "Poor",
+    "Pesticide Use": "High",
+    "Pollination Activity": "High",
+    "Threats": "Pesticides"
+  },
+  {
+    "Year": 2021,
+    "Location": "UK",
+    "Bee Population (thousands)": 3396,
+    "Hive Count": 113,
+    "Average Hive Health": "Excellent",
+    "Pesticide Use": "Low",
+    "Pollination Activity": "High",
+    "Threats": "Pesticides"
+  },
+  {
+    "Year": 2023,
+    "Location": "Canada",
+    "Bee Population (thousands)": 2252,
+    "Hive Count": 93,
+    "Average Hive Health": "Fair",
+    "Pesticide Use": "High",
+    "Pollination Activity": "Low",
+    "Threats": "Pesticides"
+  },
+  {
+    "Year": 2020,
+    "Location": "Canada",
+    "Bee Population (thousands)": 2459,
+    "Hive Count": 141,
+    "Average Hive Health": "Good",
+    "Pesticide Use": "Medium",
+    "Pollination Activity": "Low",
+    "Threats": "Habitat Loss"
+  },
+  {
+    "Year": 2018,
+    "Location": "USA",
+    "Bee Population (thousands)": 3294,
+    "Hive Count": 108,
+    "Average Hive Health": "Good",
+    "Pesticide Use": "High",
+    "Pollination Activity": "Medium",
+    "Threats": "Climate Change"
+  },
+  {
+    "Year": 2020,
+    "Location": "Canada",
+    "Bee Population (thousands)": 2459,
+    "Hive Count": 141,
+    "Average Hive Health": "Good",
+    "Pesticide Use": "Medium",
+    "Pollination Activity": "Low",
+    "Threats": "Habitat Loss"
+  }
+]
