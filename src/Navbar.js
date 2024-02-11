@@ -1,5 +1,5 @@
 import { useNavigate } from "react-router-dom"
-
+import logo from './/bee.png'
 
 const Navbar = () => {
     const navigate = useNavigate();
@@ -7,6 +7,7 @@ const Navbar = () => {
     return(
         <div>
             <div className='bg-[#FFF3AC] w-screen h-20  flex justify-between items-center'>
+            <img src={logo} alt="beelogo" className=" h-1/2"/>
                 <div className='flex items-center justify-center gap-4 ml-6'>
                 <button onClick={() => navigate("/")} className='hover:underline-dashed text-black hover:cursor-pointer'> BeeSustainable </button> 
                 </div>
