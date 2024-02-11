@@ -19,9 +19,14 @@ const UserInputForm = () => {
 	return (
 		<form onSubmit={handleSubmit}>
 			<label>
-				Enter something:
+				Input COP Location:
 				{/* Input field with value and onChange controlled by state */}
-				<input type="text" value={inputValue} onChange={handleInputChange} />
+				<input
+					class="border-[#64422F] border-4 rounded-lg drop-shadow-xl"
+					type="text"
+					value={inputValue}
+					onChange={handleInputChange}
+				/>
 			</label>
 			{/* Button to submit the form */}
 			<button type="submit">Submit</button>

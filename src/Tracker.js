@@ -3,7 +3,7 @@ import UserInputForm from "./UserInputForm";
 import React from "react";
 const Tracker = () => {
 	return (
-		<div className="flex flex-col  bg-[#F4B04E] min-h-screen">
+		<div className="flex flex-col bg-gradient-to-b from-[#FFF3AC] to-[#F4B04E] min-h-screen">
 			<Navbar />
 			<div class="flex grow basis-full px-28 py-12 justify-between gap-20 font-lucida">
 				<div class="basis-4/5 flex flex-col gap-5 text-center ">
