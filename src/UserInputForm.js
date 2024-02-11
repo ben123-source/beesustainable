@@ -22,7 +22,7 @@ const UserInputForm = () => {
 				Input COP Location:
 				{/* Input field with value and onChange controlled by state */}
 				<input
-					class="border-[#64422F] border-4 rounded-lg drop-shadow-xl"
+					class="border-[#64422F] border-4 rounded-lg drop-shadow-xl bg-[#FFFBE5]"
 					type="text"
 					value={inputValue}
 					onChange={handleInputChange}
